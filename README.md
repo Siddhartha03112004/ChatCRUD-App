@@ -112,4 +112,4 @@ http://localhost:8080/chats
 
 ## ⭐ If you like this project
 
-Give it a ⭐ on GitHub and support!
+Give it a ⭐ on GitHub
